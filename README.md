@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/webdevhill/preview-card-component)
-- Live Site URL: [Add live site URL here](https://jefhillio-3-column-card-component.netlify.app/)
+- Solution URL: [https://github.com/webdevhill/preview-card-component]
+- Live Site URL: [https://jefhillio-3-column-card-component.netlify.app/]()
 
 ## My process
 
@@ -47,5 +47,5 @@ Users should be able to:
 Another "newbie" HTML/CSS challenge. These are actually relaxing. Although
 they can bew deceptive getting the scrrenshots pixel perfect.
 
-- Website - [Add your name here](https://jeffhill.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/webdevhill)
+- Website - [https://jeffhill.io]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/webdevhill]
