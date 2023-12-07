@@ -45,7 +45,7 @@ Users should be able to:
 ### What I learned
 
 Another "newbie" HTML/CSS challenge. These are actually relaxing. Although
-they can bew deceptive getting the scrrenshots pixel perfect.
+they can be deceptive getting the screenshots pixel perfect.
 
 - Website - [https://jeffhill.io]
 - Frontend Mentor - [https://www.frontendmentor.io/profile/webdevhill]
